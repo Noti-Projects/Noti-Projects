@@ -1,0 +1,9 @@
+packages:
+  # 所有应用
+  - 'apps/*'
+  # 共享包
+  - 'packages/*'
+  # 文档
+  - 'docs'
+  # 开发工具
+  - 'tools/*'

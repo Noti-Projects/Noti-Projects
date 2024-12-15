@@ -1,0 +1,11 @@
+[submodule "apps/android"]
+    path = apps/android
+    url = git@github.com:Noti-Projects/Noti-Android.git
+
+[submodule "apps/server"]
+    path = apps/server
+    url = git@github.com:Noti-Projects/Noti-Server.git
+
+[submodule "apps/web"]
+    path = apps/web
+    url = git@github.com:Noti-Projects/Noti-Web.git
